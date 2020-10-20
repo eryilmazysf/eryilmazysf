@@ -14,7 +14,7 @@ I am a web developer with a vast array knowledge in many different front end and
 
 ### SKILLS ;
 
-###### Programming Languages: Python, Java
+##### Programming Languages: Python, Java
 ###### Front End:JavaScript, SASS, Bootstrap, HTML5, CSS3,OOP,React,React-Native
 ###### Back End:PHP, MySql
 ###### Tools:Git, Jira
