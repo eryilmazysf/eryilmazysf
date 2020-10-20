@@ -20,4 +20,4 @@ Methodologies :Agile,Scrum
 
 - 📫 How to reach me: [linked In](https://www.linkedin.com/in/yusuf-eryilmaz-ba91a419b/)
 
-![img width='400'](https://user-images.githubusercontent.com/63063197/96526737-71250c80-124c-11eb-95bc-3f785553e863.jpg)
+![img](https://user-images.githubusercontent.com/63063197/96526737-71250c80-124c-11eb-95bc-3f785553e863-large.jpg)
