@@ -19,9 +19,6 @@ Operating Systems:Linux, Windows,MacOs
 Advanced Mathematics:Calculus, Geometry, Algebra, Statistics,Number Theory
 Methodologies :Agile,Scrum 
 
-<!--
-**eryilmazysf/eryilmazysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linked In](https://www.linkedin.com/in/yusuf-eryilmaz-ba91a419b/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
