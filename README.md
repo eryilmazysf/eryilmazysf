@@ -19,7 +19,7 @@ I am a web developer with a vast array knowledge in many different front end and
 ##### Back End:PHP, MySql
 ##### Tools:Git, Jira
 ##### Operating Systems:Linux, Windows,MacOs
-##### Advanced Mathematics:Calculus, Geometry, Algebra, Statistics,Number Theory
+##### Advanced Mathematics:Calculus(1-2-3), Geometry, Algebra, Statistics,Number Theory,Differential Equations, Analytic Geometry, Pure Mathematics, Computational Theory
 ##### Methodologies :Agile,Scrum 
 
 - 📫 How to reach me: [linked In](https://www.linkedin.com/in/yusuf-eryilmaz-ba91a419b/)
