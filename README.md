@@ -16,7 +16,7 @@ I am a web developer with a vast array knowledge in many different front end and
 
 ##### Programming Languages: Python, Java
 ##### Front End:JavaScript, SASS, Bootstrap, HTML5, CSS3,OOP,React,React-Native,Google Web Designer
-##### Back End:PHP, MySql
+##### Back End:PHP, MySql,NodeJs,PostgreSQL
 ##### Tools:Git, Jira
 ##### Operating Systems:Linux, Windows,MacOs
 ##### Advanced Mathematics:Calculus(1-2-3), Geometry, Algebra, Statistics,Number Theory,Differential Equations, Analytic Geometry, Pure Mathematics, Computational Theory
