@@ -8,7 +8,7 @@
 <br/><br/><br/><br/><br/><br/>
 <p>My Tools :<p/>
 <p align="bottom">
- <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/java.png" width="25" height="26" border: 5px solid #555>
+ <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/java.png" width="30" height="25" border: 5px solid #555>
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/css3.png" width="25" height="25" border: 5px solid #555>
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/dj.png" width="25" height="25" border: 5px solid #555>
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/drive.png" width="25" height="25" border: 5px solid #555>
@@ -33,10 +33,6 @@
 <a href="">
     <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
-
-   ![img](https://user-images.githubusercontent.com/63063197/96527060-396a9480-124d-11eb-81ec-cd5d6c3aebe9.jpg)
-
 
 I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development. While a student Dokuz Eylul University and Istanbul Technical University,I studied Mathematics and Computer Engineering and I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.
 
