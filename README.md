@@ -5,6 +5,7 @@
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/ecdf091dc9f099a6db3e61242963a3a5412ae6a8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f746563682d737461636b2d3036393066612e7376673f7374796c653d666c6174" alt="" data-canonical-src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" style="max-width:100%;">
 <br/>
+<br><br>
 <p>My Tools :<p/>
 <p align="bottom">
  <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/java.png" width="30" height="25" border: 5px solid #555>
@@ -29,17 +30,18 @@
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/vs.png" width="25" height="25">
 <p/>
 <br><br><br><br><br>
-### Summary ; 
+
+####  Summary; 
 
 I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development. While a student Dokuz Eylul University and Istanbul Technical University,I studied Mathematics and Computer Engineering and I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.
 
-### EDUCATION;
+#### EDUCATION;
 
 * Dokuz Eylul University - BEd in Mathematics {2012--2018}
 
 * Istanbul Technical University - BSc in Computer Engineering{2012--2016}
 
-### SKILLS ;
+#### SKILLS ;
 
  * Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
  * Back End : NodeJs, Python OOP, PHP, Java
