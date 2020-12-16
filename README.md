@@ -30,7 +30,7 @@
 <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/vs.png" width="25" height="25">
 <p/>
 
-###Summary
+Summary ; 
 
 I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development. While a student Dokuz Eylul University and Istanbul Technical University,I studied Mathematics and Computer Engineering and I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.
 
@@ -42,14 +42,14 @@ I am a web developer with a vast array knowledge in many different front end and
 
 ### SKILLS ;
 
-##### Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3,ReactJS,Google Web Designer
-##### Back End : NodeJs,Python OOP,PHP,Java
-##### Databases : MySql,PostgreSQL,SQLite,MongoDb,FireBase
-##### Web Development : Django,Restful API,Python Flask
-##### Mobile Development : React Native,FireBase
+##### Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
+##### Back End : NodeJs, Python OOP, PHP, Java
+##### Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
+##### Web Development : Django, Restful API, Python Flask
+##### Mobile Development : React Native, FireBase
 ##### Tools : Git, Jira, Postman
-##### Methodologies : Agile,Scrum,Kanban
-##### Operating Systems : Linux, Windows,MacOs,Android,IOS
+##### Methodologies : Agile, Scrum, Kanban
+##### Operating Systems : Linux, Windows, MacOs, Android, IOS
 
 - 📫 How to reach me: [linked In](https://www.linkedin.com/in/yusuf-eryilmaz-ba91a419b/)
 
