@@ -38,7 +38,7 @@ I am a web developer with a vast array knowledge in many different front end and
 
 * Dokuz Eylul University - BEd in Mathematics {2012--2018}
 
-*Istanbul Technical University - BSc in Computer Engineering{2012--2016}
+* Istanbul Technical University - BSc in Computer Engineering{2012--2016}
 
 ### SKILLS ;
 
