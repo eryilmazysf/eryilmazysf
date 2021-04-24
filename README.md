@@ -51,7 +51,7 @@ I am a web developer with a vast array knowledge in many different front end and
  * Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
  * Web Development : Django, Restful API, Python Flask
  * Mobile Development : React Native, FireBase
- * Tools : Git, Jira, Postman,AWS
+ * Tools : Git, Jira, Postman,AWS(EC2, S3, RDS),GraphQL
  * Methodologies : Agile, Scrum, Kanban
  * Operating Systems : Linux, Windows, MacOs, Android, IOS
 
