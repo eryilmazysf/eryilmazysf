@@ -33,6 +33,7 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eryilmazysf&show_icons=true&theme=tokyonight)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryilmazysf&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
 
 ####  Summary; 
 
