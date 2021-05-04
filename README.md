@@ -64,7 +64,7 @@ I am a web developer with a vast array knowledge in many different front end and
 </a>
 
 <a href="mailto:yusuferyilmaz1819@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:yusuferyilmaz1819@gmail.com">
+    <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg" alt="mailto:yusuferyilmaz1819@gmail.com">
 </a>
 
 
