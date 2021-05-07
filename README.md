@@ -1,6 +1,4 @@
 <img align="right" src="https://github.com/eryilmazysf/eryilmazysf/blob/main/Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
-<img src="/all.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
-
 
 <h3 class="animate__animated animate__bounce">Hi, I'm Yusuf. I'm fullstack developer.👋<h3/>
 
@@ -9,7 +7,7 @@
 <br/>
 <br><br>
 
-####  🚀 Skills
+###  🚀 Skills
 
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
