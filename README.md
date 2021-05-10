@@ -57,7 +57,7 @@ I am a web developer with a vast array knowledge in many different front end and
 
 🖌  Istanbul Technical University - BSc in Computer Engineering{2012--2016}
 
-#### 🚀 SKILLS 🚀
+#### 🚀 SKILLS 🚀  ;
 
  🧨 Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
  🧨 Back End : NodeJs, Python OOP, PHP, Java
