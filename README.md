@@ -59,8 +59,8 @@ I am a web developer with a vast array knowledge in many different front end and
 
 #### 🚀 SKILLS 🚀  ;
 
- 🧨 Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
- 🧨 Back End : NodeJs, Python OOP, PHP, Java
+  Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
+  Back End : NodeJs, Python OOP, PHP, Java
  🧨 Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
  🧨 Web Development : Django, Restful API, Python Flask
  🧨 Mobile Development : React Native, FireBase
