@@ -59,21 +59,21 @@ I am a web developer with a vast array knowledge in many different front end and
 
 ## SKILLS 🚀 ;
 
-   Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
+  💊 Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
    
-   Back End : NodeJs, Python OOP, PHP, Java
+  💊 Back End : NodeJs, Python OOP, PHP, Java
    
-   Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
+  💊 Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
    
-   Web Development : Django, Restful API, Python Flask
+  💊 Web Development : Django, Restful API, Python Flask
    
-   Mobile Development : React Native, FireBase
+  💊 Mobile Development : React Native, FireBase
    
-   Tools : Git, Jira, Postman,AWS(EC2, S3, RDS),GraphQL
+  💊 Tools : Git, Jira, Postman,AWS(EC2, S3, RDS),GraphQL
    
-   Methodologies : Agile, Scrum, Kanban
+  💊 Methodologies : Agile, Scrum, Kanban
    
-   Operating Systems : Linux, Windows, MacOs, Android, IOS
+  💊 Operating Systems : Linux, Windows, MacOs, Android, IOS
 
 
 
