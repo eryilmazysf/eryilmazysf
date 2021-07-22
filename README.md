@@ -43,6 +43,7 @@
  <a href="#" target="_blank"> <img src="https://yt3.ggpht.com/ytc/AAUvwnhZtcTvJEkvuZMdTzjhPLvZGIQSo9nel4btx7j9rg=s900-c-k-c0x00ffffff-no-rj" height="45"/> </a>
 </p>
 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eryilmazysf)](https://github.com/eryilmazysf/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eryilmazysf&show_icons=true&theme=tokyonight)
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryilmazysf&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
