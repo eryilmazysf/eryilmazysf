@@ -37,7 +37,7 @@
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
  <a href="#" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://assets.ubuntu.com/v1/cb3ecebb-picto-ubuntu.svg" alt="ubuntu" height="50"/> </a> 
  <!-- <a href="#" target="_blank"> <img src="https://deshmukhsuraj.files.wordpress.com/2016/07/home-kali-slider-1.png?w=768&h=575" alt="kali" height="50"/> </a>  -->
- <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vs-code" height="50"/> </a> 
  <!-- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://yt3.ggpht.com/ytc/AAUvwnhZtcTvJEkvuZMdTzjhPLvZGIQSo9nel4btx7j9rg=s900-c-k-c0x00ffffff-no-rj" height="45"/> </a>
