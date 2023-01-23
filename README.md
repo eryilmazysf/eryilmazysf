@@ -52,7 +52,7 @@
 
 ##  Summary; 
 
-I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development. While a student Dokuz Eylul University and Istanbul Technical University,I studied Mathematics and Computer Engineering and I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer. 
+Skilled full stack developer with 3 years of experience in React, Node.js, JavaScript and Python. Proven ability to develop and maintain web applications and deliver high quality code. Strong understanding of web development principles and best practices. Able to work in a fast-paced environment and adapt to new technologies quickly.
 
 ## EDUCATION 📚 📖 ;
 
